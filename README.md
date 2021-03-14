@@ -53,6 +53,6 @@ A Continuación explico el funcionamiento general del programa
 
 3. una vez que el programa termine de hacer el análisis, tenemos la opción de exportarlo en csv o xlsx.
 
-4. ![03](https://github.com/dehoyos9804/TestServiElecciones/blob/main/assets/screenshots/03.PNG) ![04](https://github.com/dehoyos9804/TestServiElecciones/blob/main/assets/screenshots/04.PNG) 
+![03](https://github.com/dehoyos9804/TestServiElecciones/blob/main/assets/screenshots/03.PNG) ![04](https://github.com/dehoyos9804/TestServiElecciones/blob/main/assets/screenshots/04.PNG) 
 
 ⌨️ con ❤️ por [AldairDeHoyos](https://github.com/dehoyos9804) 😊
