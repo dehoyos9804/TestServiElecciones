@@ -45,14 +45,14 @@ A Continuación explico el funcionamiento general del programa
 
 1. abrimos el programa y nos aparece la siguiente interfaz:
 
-   <img src="C:\Users\dehoyos\Documents\Proyectos_Servi_informacion\prueba_tecnica\TestServiElecciones\assets\screenshots\01.PNG" alt="01" style="zoom:75%;" />
+   <img src="https://github.com/dehoyos9804/TestServiElecciones/blob/main/assets/screenshots/01.PNG" alt="01" style="zoom:75%;" />
 
 2. damos clic en el botón importa Excel a analizar, y seleccionamos el archivo y el programa se encarga de hacer el respectivo análisis.
 
-   ![02](C:\Users\dehoyos\Documents\Proyectos_Servi_informacion\prueba_tecnica\TestServiElecciones\assets\screenshots\02.PNG)
+   ![02](https://github.com/dehoyos9804/TestServiElecciones/blob/main/assets/screenshots/02.PNG)
 
 3. una vez que el programa termine de hacer el análisis, tenemos la opción de exportarlo en csv o xlsx.
 
-4. ![03](C:\Users\dehoyos\Documents\Proyectos_Servi_informacion\prueba_tecnica\TestServiElecciones\assets\screenshots\03.PNG) ![04](C:\Users\dehoyos\Documents\Proyectos_Servi_informacion\prueba_tecnica\TestServiElecciones\assets\screenshots\04.PNG) 
+4. ![03]https://github.com/dehoyos9804/TestServiElecciones/blob/main/assets/screenshots/03.PNG) ![04](https://github.com/dehoyos9804/TestServiElecciones/blob/main/assets/screenshots/04.PNG) 
 
 ⌨️ con ❤️ por [AldairDeHoyos](https://github.com/dehoyos9804) 😊
